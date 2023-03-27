@@ -131,3 +131,5 @@ dmypy.json
 # test cases
 */*/in/*
 */*/out/*
+*/in/*
+*/out/*
